@@ -9,7 +9,3 @@ Forked from [FabricMC/Matcher](https://github.com/FabricMC/Matcher), a derivativ
 Requires JDK 11.
 
 Run it with `./gradlew run`, build a distribution with `./gradlew distZip`.
-
-### Credits
-
-Dark Theme and Dark Theme Code View CSS modified from [Legacy Fabric's Matcher](https://github.com/Legacy-Fabric/Matcher)
